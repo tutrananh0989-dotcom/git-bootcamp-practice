@@ -4,7 +4,9 @@ A foundational Python project designed to practice Git workflows and version con
 
 ## Core Components
 - `app.py`: Contains the primary application logic
+- 
 - `config.py`: Stores environment and runtime parameters
+- 
 - `.gitignore`: Excludes sensitive credentials and temporary logs
 
 ## Local Execution
